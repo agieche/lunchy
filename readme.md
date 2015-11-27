@@ -20,15 +20,6 @@ ___
 
 - is used by facebook and many others ( https://facebook.github.io/react-native/showcase.html ) __battle-tested__
 
-<br><br>
-___
-
-<br><br>
-
-
-## Target different platforms thanks to VirtualDOM
-
-![VirtualDOM](https://www.safaribooksonline.com/library/view/learning-react-native/9781491929049/assets/render-targets.png)
 
 <br><br>
 ___
@@ -39,8 +30,6 @@ ___
 ## Step 1: Setup react native (tested on Mac OSX Yosemite)
 
 ![Setup](http://38.media.tumblr.com/3fcbf9e25ce3cdf8f70a782448c6be6c/tumblr_inline_mqini1Asvk1qz4rgp.gif)
-
-
 
 
 ### install nvm (node version manager)
@@ -133,7 +122,6 @@ ___
 ## Step 3: create app project
 
 ![Setup](http://tclhost.com/6kPW8hh.gif)
-
 
 
 ```
