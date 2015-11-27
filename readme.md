@@ -1,4 +1,4 @@
-# React Native 101
+# My first react native app: Lunchy
 
 ![Android setup](http://image.slidesharecdn.com/tel-aviv-meetup-150809210316-lva1-app6892/95/pieter-de-baets-an-introduction-to-react-native-1-638.jpg)
 
