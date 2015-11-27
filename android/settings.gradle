@@ -1,0 +1,3 @@
+rootProject.name = 'Lunchy'
+
+include ':app'
